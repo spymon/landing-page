@@ -270,10 +270,9 @@ header .navigation li a:hover {
   }
 
   .main-section form input[type="email"],
-  .main-section form input[type="submit"]
-   {
+  .main-section form input[type="submit"] {
     display: inline-block;
     width: 100%;
     margin: 5px;
-
+  }
 }
